@@ -1,0 +1,36 @@
+{
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_ESTUDIAAR_651": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+		"T_PRNCPXKBNLBIL_186": {
+			"blis": [
+			],
+			"entities": {
+				"EN_ESTUDIAAR_651": [
+					"AT20_NOMBRETE651"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_PRNCP_NOMBREMRY_19173"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
+}

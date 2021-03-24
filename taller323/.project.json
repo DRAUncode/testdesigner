@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2024 BETA",
+	"moduleId": "PRNCP",
+	"modules": [
+		{
+			"moduleId": "PRNCP",
+			"moduleName": "principal",
+			"subModules": [
+				{
+					"subModuleId": "ESTDN",
+					"subModuleName": "estudiantes"
+				}
+			]
+		}
+	],
+	"projectName": "taller323",
+	"subModuleId": "ESTDN"
+}

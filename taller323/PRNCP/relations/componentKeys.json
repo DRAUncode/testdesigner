@@ -1,0 +1,20 @@
+{
+	"Entities": {
+		"EN_ESTUDIAAR_651": {
+			"name": "EstudianteDGRA"
+		}
+	},
+	"ESTDN": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_PRNCPXKBNLBIL_186": {
+				"name": "EstudianteDGRAFrm"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+}

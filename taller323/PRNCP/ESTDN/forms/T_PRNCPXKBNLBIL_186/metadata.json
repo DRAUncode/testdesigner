@@ -1,0 +1,12 @@
+{
+	"entities": [
+		{
+			"entityId": "EN_ESTUDIAAR_651",
+			"isContextEntity": null,
+			"moduleId": "PRNCP",
+			"related": false
+		}
+	],
+	"queries": [
+	]
+}
